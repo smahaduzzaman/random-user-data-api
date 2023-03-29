@@ -1,0 +1,42 @@
+[
+    {
+        "id": "1",
+        "gender": "male",
+        "name": "John Smith",
+        "contact": "(123) 456-7890",
+        "address": "123 Main St, Anytown, USA",
+        "photoUrl": "https://example.com/john_smith.jpg"
+    },
+    {
+        "id": "2",
+        "gender": "female",
+        "name": "Jane Doe",
+        "contact": "(555) 555-1234",
+        "address": "456 Elm St, Anytown, USA",
+        "photoUrl": "https://example.com/jane_doe.jpg"
+    },
+    {
+        "id": "3",
+        "gender": "male",
+        "name": "Bob Johnson",
+        "contact": "(555) 123-4567",
+        "address": "789 Oak St, Anytown, USA",
+        "photoUrl": "https://example.com/bob_johnson.jpg"
+    },
+    {
+        "id": "4",
+        "gender": "male",
+        "name": "Bob Johnson",
+        "contact": "(555) 123-4567",
+        "address": "789 Oak St, Anytown, USA",
+        "photoUrl": "https://example.com/bob_johnson.jpg"
+    },
+    {
+        "id": "4",
+        "gender": "male",
+        "name": "Bob Johnson",
+        "contact": "(555) 123-4567",
+        "address": "789 Oak St, Anytown, USA",
+        "photoUrl": "https://example.com/bob_johnson.jpg"
+    }
+]
